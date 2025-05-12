@@ -3,6 +3,6 @@ channels:
   - snowflake
 dependencies:
   - matplotlib=*
-  - modin=0.28.1
+  - modin=0.30.1
   - seaborn=*
   - snowflake=*
